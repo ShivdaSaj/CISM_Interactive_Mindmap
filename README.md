@@ -1,11 +1,13 @@
 CISM_Interactive_Mindmap
+
+
 CISM Mindmap Series will include all four Domains. This collection is designed to equip prospective CISM aspirants with essential resources for exam preparation, training and reference.
 
 🌐 Mindmap Link
 📖 Resources
 👤 Issues
-🌐 Mindmap Link
 
+🌐 Mindmap Link
 CISM_Domain_01 - Information Security Governance
 CISM_Domain_02
 CISM_Domain_03
